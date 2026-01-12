@@ -62,7 +62,6 @@ Modern responsive portfolio with dark/light mode and animations.
 
 * 💼 Portfolio: *Coming Soon*
 * 📧 Email: **[PING ME](mailto:riyalsubash@gmail.com)**
-* 🐙 GitHub: [github.com/your-username](https://github.com/subaz-git)
 
 ---
 
