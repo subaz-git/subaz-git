@@ -50,14 +50,6 @@ Modern responsive portfolio with dark/light mode and animations.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?riyalsubash=riyalsubash\&show_icons=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?riyalsubash=riyalsubash\&layout=compact\&theme=transparent)
-
----
-
 ## 🌐 Connect With Me
 
 * 💼 Portfolio: *Coming Soon*
