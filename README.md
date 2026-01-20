@@ -1,60 +1,70 @@
 # 👋 Hi, I'm Subash
 
-🚀 **Full-Stack Developer | AI & Backend Enthusiast**
-I build clean, scalable, and production-ready web applications with a strong focus on performance, usability, and modern UI.
+🚀 **Beginner Developer | Cybersecurity Learner | AI & Backend Explorer**
+
+> Learning every day. Building step by step. Securing the future. 🔐💻
+
+I’m a curious learner passionate about building clean, scalable web applications while diving into **backend development**, **AI basics**, and **cybersecurity fundamentals**.  
+My goal is simple: **learn deeply, build responsibly, and grow consistently**.
+
+---
+
+## 🔥 Why Me?
+
+- 💡 I love turning **ideas into real-world projects**
+- 🛡️ Strong interest in **Cybersecurity & secure coding**
+- 🤖 Exploring **AI, automation, and smart systems**
+- 🌱 Beginner mindset with **daily learning habits**
+- ⚙️ Focused on **performance, security & clean UI**
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 💡 Passionate about turning ideas into real-world products
-* ⚙️ Experienced with **FastAPI, JavaScript, Python, HTML, CSS**
-* 🤖 Exploring **AI / ML** projects and computer vision
-* 🌱 Always learning modern web & backend architectures
+- 🎯 Aspiring developer with a security-first mindset  
+- 🧠 Curious about **how things work under the hood**
+- 🛠️ Building small projects to learn big concepts  
+- 🚀 Always improving, always experimenting
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-`HTML` `CSS` `JavaScript`
+### 🎨 Frontend
+`HTML` · `CSS` · `JavaScript`
 
-**Backend**
-`Python` `FastAPI`
+### ⚙️ Backend
+`Python` · `Flask`
 
-**Tools & Platforms**
-`Git` `GitHub` `Linux` `REST APIs`
+### 🧰 Tools & Platforms
+`Git` · `GitHub` · `Linux`
 
-**Learning / Exploring**
-`Machine Learning` `Computer Vision` `Vercel Deployment` `Cyber Security`
+### 📚 Currently Learning
+`Cyber Security` · `Artificial Intelligence` · `Automation` · `Vercel Deployment`
 
 ---
 
-## 📌 Featured Projects
+## 🌱 Learning Goals (2026)
 
-### 📄 Document Converter
-
-FastAPI-based file conversion system deployed on cloud platforms.
-
-* File upload & validation
-* Multiple format conversions
-* RESTful API design
-
-### 🌐 Personal Portfolio
-
-Modern responsive portfolio with dark/light mode and animations.
-
-* Clean UI & UX
-* Skill animations & scroll reveals
-* Optimized for deployment
+- 🔐 Build secure backend applications  
+- 🤖 Understand AI & ML fundamentals  
+- ⚡ Improve performance and scalability  
+- 🧪 Work on real-world cybersecurity mini projects  
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 Portfolio: *Coming Soon*
-* 📧 Email: **[PING ME](mailto:riyalsubash@gmail.com)**
+- 💼 **Portfolio:** [riyalsubash.vercel.app](https://riyalsubash.vercel.app/)
+- 📧 **Email:** [Ping Me](mailto:riyalsubash@gmail.com)
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+## ⭐ Support
+
+If you find my projects interesting or helpful,  
+**consider starring ⭐ my repositories** — it really motivates me!
+
+---
+
+> “Start where you are. Use what you have. Build what you can.” 🚀
